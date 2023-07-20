@@ -146,7 +146,7 @@ function calculate() {
       return;
     }
 
-    var result;
+    let result;
     switch (operation) {
       case "+":
         result = num1 + num2;
